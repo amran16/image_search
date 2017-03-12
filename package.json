@@ -1,0 +1,19 @@
+{
+  "name": "image_search_abstraction_layer",
+  "version": "1.0.0",
+  "description": "FCC Image Search Project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon app.js"
+  },
+  "author": "Maryam",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "ejs": "^2.5.6",
+    "express": "^4.14.0",
+    "mongoose": "^4.7.7",
+    "request": "^2.79.0"
+  }
+}
